@@ -1,5 +1,7 @@
-first open in vs code and open terminal and after you can write
-npm -f i
+Start Authentication Module:
 
-and for run command is
-npm run start
+Install dependencies
+npm install
+
+Start the server
+npm start
